@@ -2,7 +2,7 @@
 <h1 align="center">I'm Felipe von Brasche Figueiredo</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Ruby on Rails**
 
